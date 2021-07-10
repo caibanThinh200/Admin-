@@ -1,0 +1,28 @@
+{
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "theme": {
+            "dark": "dark",
+            "light" : "light"
+        }
+    },
+    "home": {
+        "title": "Trang chủ admin",
+        "revenueChart": "Biểu đồ doanh thu hàng tháng",
+        "revenueTitle": "Tổng doanh thu hàng tháng"
+    },
+    "bill": {
+        "title": "Hóa đơn giao dịch",
+        "purchaseTable": "Bảng danh sách lịch sử giao dịch",
+        "detail": "Chi tiết",
+        "idBill": "Mã hóa đơn",
+        "customerName": "Tên khách hàng",
+        "phoneNum": "Số điện thoại",
+        "address": "Địa chỉ giao",
+        "total": "Tổng tiền"
+    },
+    "datetime": {
+        "month": "Tháng {{month}}",
+        "date": "Ngày {{date}}"
+    }
+}

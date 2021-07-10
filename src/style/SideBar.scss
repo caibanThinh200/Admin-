@@ -1,0 +1,9 @@
+.dash-board {
+    font-size: 30px;
+    &__black-theme {
+        color: white;
+    }
+    &__white-theme {
+        color: black;
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "theme": {
+            "dark": "dark",
+            "light" : "light"
+        }
+    },
+    "home": {
+        "title": "Admin homepage",
+        "revenueChart": "Revenue chart",
+        "revenueTitle": "Month revenue"
+    },
+    "bill": {
+        "title": "Bill purchase",
+        "purchaseTable": "List purchase bill",
+        "detail": "Detail",
+        "idBill": "Bill ID",
+        "customerName": "Customer name",
+        "phoneNum": "Phone number",
+        "address": "Address",
+        "total": "Total"
+    },
+    "datetime": {
+        "month": "Month {{month}}",
+        "date": "Day {{date}}"
+    }
+}
